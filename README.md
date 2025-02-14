@@ -63,5 +63,3 @@
 Que cette soirée soit remplie de gratitude, de joie et de communion fraternelle en l'honneur de l'anniversaire de Charlotte.  
 
 ---
-
-Let me know if you want this as an `.md` file to download!
