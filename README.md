@@ -1,5 +1,3 @@
-Here’s the `.md` file in the requested style, adding red, gold, and blue color emphasis for better visual distinction. The colors will be applied using inline HTML since Markdown doesn’t natively support color.
-
 ---
 
 # <span style="color:gold;">Soirée d'Action de Grâce - Anniversaire de Charlotte Vaval Mathieu</span>  
